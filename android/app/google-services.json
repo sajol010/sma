@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "932238780865",
+    "project_id": "shush-4e25d",
+    "storage_bucket": "shush-4e25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932238780865:android:61765e7681f9e7568ae740",
+        "android_client_info": {
+          "package_name": "biz.shush.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932238780865-4bvrueob6d0qmb480t7ak7n28u7umr0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.shush.android",
+            "certificate_hash": "b740345e2b112ec93405762c88dd22f7a62e4a6e"
+          }
+        },
+        {
+          "client_id": "932238780865-7hcu5n6hm9lf6rf7dj3cd0p9imsold04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.shush.android",
+            "certificate_hash": "3f5f765e096db61c6701a4294be74fe8c05cddb0"
+          }
+        },
+        {
+          "client_id": "932238780865-jqgg71u4lbbuvmfhdbv2u9cu1j85kplg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.shush.android",
+            "certificate_hash": "6cf14b915e50029641fc05c8ce7c0e2760931be8"
+          }
+        },
+        {
+          "client_id": "932238780865-ceef9pejfkcau41gquokgbh6sre52td1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdugJrxaOW-WMq7VMipx3KSPLBGuU4how"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932238780865-ceef9pejfkcau41gquokgbh6sre52td1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932238780865-bt99n80pdfqd2u8ft62u1dpm6vnt86tm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.shushapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

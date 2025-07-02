@@ -1,0 +1,115 @@
+{
+  "identifier" : "68D67588",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "6478489119",
+      "localizations" : [
+        {
+          "description" : "You will get 100 credit for Shush Privacy App",
+          "displayName" : "100 NDAs",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "shush.nda.p.100",
+      "referenceName" : "100 NDAs",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "6477707941",
+      "localizations" : [
+        {
+          "description" : "Instant access to 15 NDA credit for use",
+          "displayName" : "15 NDAs",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "shush.nda.p.15",
+      "referenceName" : "15 NDAs",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "18.99",
+      "familyShareable" : false,
+      "internalID" : "6478488787",
+      "localizations" : [
+        {
+          "description" : "Instant access to 30 NDAs credit for use",
+          "displayName" : "30 NDA",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "shush.nda.p.30",
+      "referenceName" : "30 NDAs",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6476983966",
+    "_developerTeamID" : "K86J6V63RB",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 731080353.39194906,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

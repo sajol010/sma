@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "biz.shush.android",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 95,
+      "versionName": "1.3-rc",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

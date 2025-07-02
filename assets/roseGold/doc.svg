@@ -1,0 +1,16 @@
+<svg width="24" height="26" viewBox="0 0 24 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar:document-broken">
+<path id="Vector" d="M3 15.0714V10.9285C3 7.02286 3 5.0695 4.172 3.85668C5.343 2.64282 7.229 2.64282 11 2.64282H13C16.771 2.64282 18.657 2.64282 19.828 3.85668C20.482 4.533 20.771 5.43925 20.898 6.78568M21 10.9285V15.0714C21 18.9771 21 20.9304 19.828 22.1433C18.657 23.3571 16.771 23.3571 13 23.3571H11C7.229 23.3571 5.343 23.3571 4.172 22.1433C3.518 21.4669 3.229 20.5607 3.102 19.2143M8 15.0714H13M8 10.9285H9M16 10.9285H12" stroke="url(#paint0_linear_1915_2652)" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1915_2652" x1="3" y1="12.9995" x2="21" y2="12.9995" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C26259"/>
+<stop offset="0.2" stop-color="#FFCDC3"/>
+<stop offset="0.36" stop-color="#EA8B81"/>
+<stop offset="0.5" stop-color="#FFB3A9"/>
+<stop offset="0.64" stop-color="#FFDDD3"/>
+<stop offset="0.8" stop-color="#EC8C83"/>
+<stop offset="1" stop-color="#DF817B"/>
+</linearGradient>
+</defs>
+</svg>

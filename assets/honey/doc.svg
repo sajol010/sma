@@ -1,0 +1,23 @@
+<svg width="24" height="26" viewBox="0 0 24 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar:document-broken">
+<path id="Vector" d="M3 15.0714V10.9285C3 7.02286 3 5.0695 4.172 3.85668C5.343 2.64282 7.229 2.64282 11 2.64282H13C16.771 2.64282 18.657 2.64282 19.828 3.85668C20.482 4.533 20.771 5.43925 20.898 6.78568M21 10.9285V15.0714C21 18.9771 21 20.9304 19.828 22.1433C18.657 23.3571 16.771 23.3571 13 23.3571H11C7.229 23.3571 5.343 23.3571 4.172 22.1433C3.518 21.4669 3.229 20.5607 3.102 19.2143M8 15.0714H13M8 10.9285H9M16 10.9285H12" stroke="url(#paint0_linear_2123_2569)" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2123_2569" x1="12" y1="2.40672" x2="12" y2="24.0565" gradientUnits="userSpaceOnUse">
+<stop stop-color="#979797"/>
+<stop offset="0.01" stop-color="#AEAEAE"/>
+<stop offset="0.03" stop-color="#CBCBCB"/>
+<stop offset="0.06" stop-color="#E1E1E1"/>
+<stop offset="0.08" stop-color="#F1F1F1"/>
+<stop offset="0.11" stop-color="#FBFBFB"/>
+<stop offset="0.15" stop-color="#FEFEFE"/>
+<stop offset="0.29" stop-color="#DCDCDC"/>
+<stop offset="0.48" stop-color="#7D7D7D"/>
+<stop offset="0.62" stop-color="#5A5A5A"/>
+<stop offset="0.76" stop-color="#7D7D7D"/>
+<stop offset="0.9" stop-color="#C4C4C4"/>
+<stop offset="0.95" stop-color="#E0E0E0"/>
+<stop offset="1" stop-color="#F8F8F8"/>
+</linearGradient>
+</defs>
+</svg>

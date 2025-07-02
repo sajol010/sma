@@ -1,0 +1,24 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon Back">
+<g id=" Round / Navigation / chevron_left">
+<g id="&#240;&#159;&#148;&#185; Icon Color">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.28999 17.29C9.67999 17.68 10.31 17.68 10.7 17.29L15.29 12.7C15.68 12.31 15.68 11.68 15.29 11.29L10.7 6.70002C10.31 6.31002 9.67999 6.31002 9.28999 6.70002C8.89999 7.09002 8.89999 7.72002 9.28999 8.11002L13.17 12L9.28999 15.88C8.89999 16.27 8.90999 16.91 9.28999 17.29Z" fill="#6E81A0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.28999 17.29C9.67999 17.68 10.31 17.68 10.7 17.29L15.29 12.7C15.68 12.31 15.68 11.68 15.29 11.29L10.7 6.70002C10.31 6.31002 9.67999 6.31002 9.28999 6.70002C8.89999 7.09002 8.89999 7.72002 9.28999 8.11002L13.17 12L9.28999 15.88C8.89999 16.27 8.90999 16.91 9.28999 17.29Z" fill="url(#paint0_linear_1439_10965)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.28999 17.29C9.67999 17.68 10.31 17.68 10.7 17.29L15.29 12.7C15.68 12.31 15.68 11.68 15.29 11.29L10.7 6.70002C10.31 6.31002 9.67999 6.31002 9.28999 6.70002C8.89999 7.09002 8.89999 7.72002 9.28999 8.11002L13.17 12L9.28999 15.88C8.89999 16.27 8.90999 16.91 9.28999 17.29Z" fill="url(#paint1_linear_1439_10965)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1439_10965" x1="15.5825" y1="11.995" x2="8.99749" y2="11.995" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B46A11"/>
+<stop offset="0.32" stop-color="#D68D15"/>
+<stop offset="0.68" stop-color="#E7AC18"/>
+<stop offset="1" stop-color="#F8C73D"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1439_10965" x1="15.5825" y1="11.7881" x2="8.99749" y2="11.7881" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B68013"/>
+<stop offset="0.531472" stop-color="#FDEF9F"/>
+<stop offset="1" stop-color="#B68014"/>
+</linearGradient>
+</defs>
+</svg>

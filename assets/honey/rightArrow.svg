@@ -1,0 +1,25 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon Back">
+<g id=" Round / Navigation / chevron_left">
+<path id="&#240;&#159;&#148;&#185; Icon Color" fill-rule="evenodd" clip-rule="evenodd" d="M9.29002 17.29C9.68002 17.68 10.31 17.68 10.7 17.29L15.29 12.7C15.68 12.31 15.68 11.68 15.29 11.29L10.7 6.70002C10.31 6.31002 9.68002 6.31002 9.29002 6.70002C8.90002 7.09002 8.90002 7.72002 9.29002 8.11002L13.17 12L9.29002 15.88C8.90002 16.27 8.91002 16.91 9.29002 17.29Z" fill="url(#paint0_linear_2123_3818)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2123_3818" x1="12.29" y1="17.7099" x2="12.29" y2="6.03024" gradientUnits="userSpaceOnUse">
+<stop stop-color="#979797"/>
+<stop offset="0.01" stop-color="#AEAEAE"/>
+<stop offset="0.03" stop-color="#CBCBCB"/>
+<stop offset="0.06" stop-color="#E1E1E1"/>
+<stop offset="0.08" stop-color="#F1F1F1"/>
+<stop offset="0.11" stop-color="#FBFBFB"/>
+<stop offset="0.15" stop-color="#FEFEFE"/>
+<stop offset="0.29" stop-color="#DCDCDC"/>
+<stop offset="0.48" stop-color="#7D7D7D"/>
+<stop offset="0.62" stop-color="#5A5A5A"/>
+<stop offset="0.76" stop-color="#7D7D7D"/>
+<stop offset="0.9" stop-color="#C4C4C4"/>
+<stop offset="0.95" stop-color="#E0E0E0"/>
+<stop offset="1" stop-color="#F8F8F8"/>
+</linearGradient>
+</defs>
+</svg>
